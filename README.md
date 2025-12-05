@@ -56,4 +56,4 @@ After downloading, place the CSV file in your project folder and ensure that the
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/LavanyaChowdam23/Creditcard_Fraud.git>
